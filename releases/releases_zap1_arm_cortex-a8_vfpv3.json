@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-30T07:05:17Z",
+  "generated_at": "2026-01-30T07:35:40Z",
   "releases": [
     {
       "tag": "v72.20260128",
       "name": "zapret v72.20260128",
-      "prerelease": false,
+      "prerelease": true,
       "created_at": "2026-01-29T18:35:06Z",
-      "updated_at": "2026-01-30T07:05:08Z",
+      "updated_at": "2026-01-30T07:35:30Z",
       "published_at": "2026-01-30T01:11:45Z",
       "url": "https://github.com/FreeRKN/zapret-openwrt/releases/tag/v72.20260128",
       "assets": [
         {
-          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/348076152",
-          "id": 348076152,
-          "node_id": "RA_kwDOQ9z9Ts4Uvzh4",
+          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/348084709",
+          "id": 348084709,
+          "node_id": "RA_kwDOQ9z9Ts4Uv1nl",
           "name": "zapret_v72.20260128_arm_cortex-a8_vfpv3.zip",
           "label": "",
           "uploader": {
@@ -40,10 +40,10 @@
           "content_type": "application/zip",
           "state": "uploaded",
           "size": 408702,
-          "digest": "sha256:8eeea95b8e8eb3cd243d5c3b5660bb3e3b2f64a50a82e3e4da5ba26eee516ea5",
+          "digest": "sha256:b3128542b2dbd3df72e98cd7d39db3dfe1137e6d4a2df7ca705371ddb662d0bc",
           "download_count": 0,
-          "created_at": "2026-01-30T07:03:27Z",
-          "updated_at": "2026-01-30T07:03:28Z",
+          "created_at": "2026-01-30T07:35:30Z",
+          "updated_at": "2026-01-30T07:35:30Z",
           "browser_download_url": "https://github.com/FreeRKN/zapret-openwrt/releases/download/v72.20260128/zapret_v72.20260128_arm_cortex-a8_vfpv3.zip"
         }
       ]
