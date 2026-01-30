@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-30T19:26:25Z",
+  "generated_at": "2026-01-30T19:54:41Z",
   "releases": [
     {
       "tag": "v72.20260128",
       "name": "zapret v72.20260128",
-      "prerelease": false,
+      "prerelease": true,
       "created_at": "2026-01-29T18:35:06Z",
-      "updated_at": "2026-01-30T19:24:23Z",
+      "updated_at": "2026-01-30T19:54:27Z",
       "published_at": "2026-01-30T01:11:45Z",
       "url": "https://github.com/FreeRKN/zapret-openwrt/releases/tag/v72.20260128",
       "assets": [
         {
-          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/348084699",
-          "id": 348084699,
-          "node_id": "RA_kwDOQ9z9Ts4Uv1nb",
+          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/348336827",
+          "id": 348336827,
+          "node_id": "RA_kwDOQ9z9Ts4UwzK7",
           "name": "zapret_v72.20260128_arm_xscale.zip",
           "label": "",
           "uploader": {
@@ -40,10 +40,10 @@
           "content_type": "application/zip",
           "state": "uploaded",
           "size": 410794,
-          "digest": "sha256:2735c383e4d330e22545db0402e1d011b82888704aaa58cfb39c0f6d075a79dd",
+          "digest": "sha256:0b11e48ad7eed034039b7b47994cf8a9742582824643a89b66c81b0c099f34cc",
           "download_count": 0,
-          "created_at": "2026-01-30T07:35:30Z",
-          "updated_at": "2026-01-30T07:35:30Z",
+          "created_at": "2026-01-30T19:54:26Z",
+          "updated_at": "2026-01-30T19:54:26Z",
           "browser_download_url": "https://github.com/FreeRKN/zapret-openwrt/releases/download/v72.20260128/zapret_v72.20260128_arm_xscale.zip"
         }
       ]
