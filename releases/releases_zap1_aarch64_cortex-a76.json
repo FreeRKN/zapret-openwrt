@@ -1,15 +1,52 @@
 {
-  "generated_at": "2026-01-30T01:12:44Z",
+  "generated_at": "2026-01-30T01:56:09Z",
   "releases": [
     {
       "tag": "v72.20260128",
       "name": "zapret v72.20260128",
-      "prerelease": false,
+      "prerelease": true,
       "created_at": "2026-01-29T18:35:06Z",
-      "updated_at": "2026-01-30T01:11:45Z",
+      "updated_at": "2026-01-30T01:56:00Z",
       "published_at": "2026-01-30T01:11:45Z",
       "url": "https://github.com/FreeRKN/zapret-openwrt/releases/tag/v72.20260128",
-      "assets": []
+      "assets": [
+        {
+          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/347972960",
+          "id": 347972960,
+          "node_id": "RA_kwDOQ9z9Ts4UvaVg",
+          "name": "zapret_v72.20260128_aarch64_cortex-a76.zip",
+          "label": "",
+          "uploader": {
+            "login": "github-actions[bot]",
+            "id": 41898282,
+            "node_id": "MDM6Qm90NDE4OTgyODI=",
+            "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+            "html_url": "https://github.com/apps/github-actions",
+            "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+            "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+            "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+            "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+            "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+            "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+            "type": "Bot",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "content_type": "application/zip",
+          "state": "uploaded",
+          "size": 420091,
+          "digest": "sha256:e9ffd923c477bc5f270c9a3aa49bbafb04aa62a6351b783636858ec029d354e2",
+          "download_count": 0,
+          "created_at": "2026-01-30T01:56:00Z",
+          "updated_at": "2026-01-30T01:56:00Z",
+          "browser_download_url": "https://github.com/FreeRKN/zapret-openwrt/releases/download/v72.20260128/zapret_v72.20260128_aarch64_cortex-a76.zip"
+        }
+      ]
     },
     {
       "tag": "v72.20260125",
