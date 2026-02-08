@@ -32,9 +32,9 @@
     "name": "zapret v72.20260207",
     "draft": false,
     "immutable": false,
-    "prerelease": true,
+    "prerelease": false,
     "created_at": "2026-02-07T06:39:15Z",
-    "updated_at": "2026-02-07T15:03:27Z",
+    "updated_at": "2026-02-08T06:00:28Z",
     "published_at": "2026-02-07T14:33:21Z",
     "assets": [
       {
@@ -1012,7 +1012,7 @@
     ],
     "tarball_url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/tarball/v72.20260207",
     "zipball_url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/zipball/v72.20260207",
-    "body": "zapret v72.20260207 for OpenWrt\n"
+    "body": "zapret v72.20260207 for OpenWrt\r\n"
   },
   {
     "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/282321322",
