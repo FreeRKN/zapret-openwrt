@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-02-13T14:39:03Z",
+  "generated_at": "2026-02-13T15:11:11Z",
   "releases": [
     {
       "tag": "v72.20260207",
       "name": "zapret v72.20260207",
-      "prerelease": false,
+      "prerelease": true,
       "created_at": "2026-02-07T06:39:15Z",
-      "updated_at": "2026-02-08T06:00:28Z",
+      "updated_at": "2026-02-13T15:11:00Z",
       "published_at": "2026-02-07T14:33:21Z",
       "url": "https://github.com/FreeRKN/zapret-openwrt/releases/tag/v72.20260207",
       "assets": [
         {
-          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/352211737",
-          "id": 352211737,
-          "node_id": "RA_kwDOQ9z9Ts4U_lMZ",
+          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/355401560",
+          "id": 355401560,
+          "node_id": "RA_kwDOQ9z9Ts4VLv9Y",
           "name": "zapret_v72.20260207_x86_64.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 423125,
-          "digest": "sha256:be072899646a6b292a6d52d3f1c705abc5e1e414cae46f625c83738545df0023",
+          "size": 433786,
+          "digest": "sha256:986ae5a0dd8e7986e4ba31fe7af666bb8aac4538d590297ec1807f3f42d9ab21",
           "download_count": 0,
-          "created_at": "2026-02-07T15:03:27Z",
-          "updated_at": "2026-02-07T15:03:27Z",
+          "created_at": "2026-02-13T15:11:00Z",
+          "updated_at": "2026-02-13T15:11:00Z",
           "browser_download_url": "https://github.com/FreeRKN/zapret-openwrt/releases/download/v72.20260207/zapret_v72.20260207_x86_64.zip"
         }
       ]

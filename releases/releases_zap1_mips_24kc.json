@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-02-13T14:39:03Z",
+  "generated_at": "2026-02-13T15:11:10Z",
   "releases": [
     {
       "tag": "v72.20260207",
       "name": "zapret v72.20260207",
-      "prerelease": false,
+      "prerelease": true,
       "created_at": "2026-02-07T06:39:15Z",
-      "updated_at": "2026-02-08T06:00:28Z",
+      "updated_at": "2026-02-13T15:11:00Z",
       "published_at": "2026-02-07T14:33:21Z",
       "url": "https://github.com/FreeRKN/zapret-openwrt/releases/tag/v72.20260207",
       "assets": [
         {
-          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/352211742",
-          "id": 352211742,
-          "node_id": "RA_kwDOQ9z9Ts4U_lMe",
+          "url": "https://api.github.com/repos/FreeRKN/zapret-openwrt/releases/assets/355401577",
+          "id": 355401577,
+          "node_id": "RA_kwDOQ9z9Ts4VLv9p",
           "name": "zapret_v72.20260207_mips_24kc.zip",
           "label": "",
           "uploader": {
@@ -39,11 +39,11 @@
           },
           "content_type": "application/zip",
           "state": "uploaded",
-          "size": 418770,
-          "digest": "sha256:d8e091b2ccd9634cb7b0a70e7d85284f9d453cd3f61b609e167d4e844e20d354",
+          "size": 403135,
+          "digest": "sha256:59936afc516e058c80aedb5d796fd89d76cbdd542f47e7777f6f4a06f50911ec",
           "download_count": 0,
-          "created_at": "2026-02-07T15:03:27Z",
-          "updated_at": "2026-02-07T15:03:27Z",
+          "created_at": "2026-02-13T15:11:00Z",
+          "updated_at": "2026-02-13T15:11:00Z",
           "browser_download_url": "https://github.com/FreeRKN/zapret-openwrt/releases/download/v72.20260207/zapret_v72.20260207_mips_24kc.zip"
         }
       ]
