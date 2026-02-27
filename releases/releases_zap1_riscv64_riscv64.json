@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-02-27T13:09:53Z",
+  "generated_at": "2026-02-27T13:46:17Z",
   "releases": [
     {
       "tag": "v72.20260226",
       "name": "zapret v72.20260226",
-      "prerelease": false,
+      "prerelease": true,
       "created_at": "2026-02-26T08:01:22Z",
-      "updated_at": "2026-02-27T13:09:44Z",
+      "updated_at": "2026-02-27T13:46:03Z",
       "published_at": "2026-02-27T13:09:44Z",
       "url": "https://github.com/FreeRKN/zapret-openwrt/releases/tag/v72.20260226",
       "assets": []
